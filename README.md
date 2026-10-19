@@ -1,4 +1,4 @@
-# 🌐 LAB 41 - Border Gateway Protocol (BGP) Using Cisco Packet Tracer
+# 🌐 Border Gateway Protocol (BGP) Using Cisco Packet Tracer
 
 ## 🎯 Objective
 
@@ -288,3 +288,6 @@ show running-config | section bgp
 # ✅ Result
 
 Successfully configured Border Gateway Protocol (BGP) between Autonomous Systems **AS 20**, **AS 35**, and **AS 50**. BGP neighbor relationships were established, routing information was exchanged between the autonomous systems, and end-to-end connectivity between the `192.168.10.0/24` and `192.168.20.0/24` networks was achieved. 🚀
+## Network Topology
+
+![Enterprise Network Topology](topology-screenshot.png)
